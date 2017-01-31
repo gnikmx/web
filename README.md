@@ -1,6 +1,6 @@
 Gracias por su interés en G-Nik, MX.
 
-Internet es un lugar increíble donde todo tipo de personas tienen la oportunidad de colaborar con un intercambio abierto de información.
+Internet es un lugar increíble donde todo tipo de gente tiene la oportunidad de colaborar con un intercambio abierto de información. Creemos que todas las personas deben ser libres. La gente debe ser libre para compartir información, libre para viajar, y libre para vivir una vida feliz y productiva.
 
 Estamos alojados en GitHub y tenemos un sitio web y dirección de correo electrónico.
 
