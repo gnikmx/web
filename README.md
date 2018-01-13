@@ -6,4 +6,4 @@ Nuestros empleados y personal voluntario brindan soporte a organizaciones sin fi
 
 Estamos alojados en GitHub y tenemos un sitio web y dirección de correo electrónico.
 
-Por favor, háganos saber si usted tiene alguna pregunta.
+Por favor, háganos saber si usted tiene alguna pregunta: informacion at gnik dot mx.
